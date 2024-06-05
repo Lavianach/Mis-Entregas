@@ -45,7 +45,8 @@ REALIZAR PRESTAMO:  https://drive.google.com/file/d/1TjBqem7N34lnJ5OcCKzWQPrOuIW
 
    Realizar prestamo:  https://docs.google.com/spreadsheets/d/1WE3AQyxqIU0GEVOzi98PDYIpI2DlJEEq/edit?usp=drive_link&rtpof=true&sd=true
 
-    Devolucion:  https://docs.google.com/spreadsheets/d/1Vew6IvrnXxGvIQ31BXdbCIDQwfCvSR-R/edit?usp=drive_link&rtpof=true&sd=true
-   
+   Devolucion:  https://docs.google.com/spreadsheets/d/1Vew6IvrnXxGvIQ31BXdbCIDQwfCvSR-R/edit?usp=drive_link&rtpof=true&sd=true
+
+    
 
 
