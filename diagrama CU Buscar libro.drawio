@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" modified="2024-06-05T00:39:41.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fqzRVUMYaIB4HeV82hGf" version="24.4.13" type="device">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#4D4D4D" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="20" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334.5" y="478" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-42" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="590" as="sourcePoint" />
+            <mxPoint x="90" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-43" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="650" as="sourcePoint" />
+            <mxPoint x="90" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-44" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="640" as="sourcePoint" />
+            <mxPoint x="90" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="50" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-46" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="510" as="sourcePoint" />
+            <mxPoint x="50" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-47" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;curved=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="570" as="sourcePoint" />
+            <mxPoint x="90" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-48" value="&lt;font color=&quot;#ffffff&quot;&gt;ACTORES&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-49" value="&lt;font color=&quot;#ffffff&quot;&gt;USUARIOS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="45" y="660" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-50" value="Buscar libro" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="480" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-51" value="Buscar por categoria" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="600" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-52" value="Buscar por autor" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="490" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-53" value="Buscar por titulo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="378" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" target="kpetkBo5HPHerhaa9Lsq-50" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="530" as="sourcePoint" />
+            <mxPoint x="160" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-59" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;dashed=1;" parent="1" target="kpetkBo5HPHerhaa9Lsq-53" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="498" as="sourcePoint" />
+            <mxPoint x="400" y="448" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;dashed=1;" parent="1" target="kpetkBo5HPHerhaa9Lsq-52" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="521" as="sourcePoint" />
+            <mxPoint x="489" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kpetkBo5HPHerhaa9Lsq-61" value="" style="endArrow=none;html=1;rounded=0;entryX=0.071;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;dashed=1;" parent="1" target="kpetkBo5HPHerhaa9Lsq-51" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="541" as="sourcePoint" />
+            <mxPoint x="469" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI5u_i3UO7Y7v_ep5aiO-20" value="&lt;font color=&quot;#ffe599&quot;&gt;Descripcion: Permite a los usuarios buscar libros en el sistema ya sea por titulo ,autor o categoria.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="328" width="550" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
