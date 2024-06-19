@@ -1,4 +1,4 @@
-# ACTIVIDAD NUMERO 4 "D.O.O"
+# ACTIVIDAD NUMERO 5 "D.O.O"
 
 #Biblioteca Municipal "Luz y Saber" .
 #### Alumno: Elias Exequiel Lavia
@@ -46,6 +46,40 @@ REALIZAR PRESTAMO:  https://drive.google.com/file/d/1TjBqem7N34lnJ5OcCKzWQPrOuIW
    Realizar prestamo:  https://docs.google.com/spreadsheets/d/1WE3AQyxqIU0GEVOzi98PDYIpI2DlJEEq/edit?usp=drive_link&rtpof=true&sd=true
 
    Devolucion:  https://docs.google.com/spreadsheets/d/1Vew6IvrnXxGvIQ31BXdbCIDQwfCvSR-R/edit?usp=drive_link&rtpof=true&sd=true
+
+
+   4. Diagrama de Actividades:
+
+      Buscar libro:  https://drive.google.com/file/d/1Y7UTv1fUF22jOzpEatqrmhek0wpq07lf/view?usp=drive_link
+      
+      Inicio Sesion: https://drive.google.com/file/d/1oyLenYA3OzGsHqdhCcTl4pLmw94rI1bl/view?usp=drive_link
+
+      Prestamo: https://drive.google.com/file/d/1JcwfSAi2LRwyRd4fYu-Pokqee2UxRSFY/view?usp=drive_link
+
+      Registro libro:  https://drive.google.com/file/d/14-b3tx4K5TtzDMLiMCk5iFgnkbRqbImS/view?usp=drive_link
+
+      Registro usuario/bibliotecario:  https://drive.google.com/file/d/1yWG8sQvtVZRL6mnzpneSx6hhfUzMNQuG/view?usp=drive_link
+
+
+   5. Diagramas de Secuencias:
+
+      Solicitar Prestamo:  https://drive.google.com/file/d/1_i0ykkEcY_KTJ-xVO_FLYibgMEAZxQfC/view?usp=drive_link
+
+      Registrarse:  https://drive.google.com/file/d/1pk8W17O4hH0SSrBy3BYwDllnd86iBHDx/view?usp=drive_link
+
+      buscar libro:  https://drive.google.com/file/d/1guMb9DLldot1Fwc9tJtYx1jvN3wEXLE1/view?usp=drive_link
+
+   6: Matriz CLAE:
+   https://docs.google.com/spreadsheets/d/1mwX7IsRQr5xseZd9fB24TEwyDTCuxP24/edit?usp=drive_link&ouid=107823519741972166430&rtpof=true&sd=true
+
+   7. Digrama de Clases:  https://drive.google.com/file/d/1P0dPv6a6A9f_kJLpWRe7On8zExK-N0RY/view?usp=drive_link
+   
+
+      
+
+      
+
+   
 
     
 
