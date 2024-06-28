@@ -20,6 +20,9 @@
 3)	Lograr un ambiente de trabajo mucho mas eficaz y agradable .
 
 # :arrow_down_small: Diagramas y diseño
+:link:[Actividad Nro 3](https://docs.google.com/document/d/1Qp6hNQUvrO1Xh43iwDOPItIw5hxiTVbc/edit?usp=drive_link&ouid=107823519741972166430&rtpof=true&sd=true)
+
+
 :link:[Tarjetas CRC:](https://drive.google.com/file/d/1IJoEIDM9eljXWxspZafo-gLZGjmy2QXL/view?usp=drive_link)
 
 ### 2. Diagramas de caso de uso
