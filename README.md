@@ -13,7 +13,7 @@
 ## :zap:INTRODUCCION
 ### Descripcion: Diseño de un sistema de administracion para una biblioteca.
 ***
-## REQUISITOS INICIALES
+## :small_orange_diamond:REQUISITOS INICIALES
 
 1)	Bueno tenemos como requisito inicial del sistema relacionado con los casos de uso en mejorar la calidad de trabajo de los bibliotecarios tanto como la experiencia del usuario.
 2)	Evitar malas experiencias y poder brindar soluciones mucho mas rapidas.
