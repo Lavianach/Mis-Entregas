@@ -22,7 +22,7 @@
 # :arrow_down_small: Diagramas y diseño
 :link:[Tarjetas CRC:](https://drive.google.com/file/d/1IJoEIDM9eljXWxspZafo-gLZGjmy2QXL/view?usp=drive_link)
 
-### Diagramas de caso de uso
+### 2. Diagramas de caso de uso
    :link:[Buscar Libro](https://drive.google.com/file/d/1qmoEpMjHDosjQLPPsoZu1B-FS5KCFhZg/view?usp=drive_link)
 
 :link:[Realizar Prestamo](https://drive.google.com/file/d/1TjBqem7N34lnJ5OcCKzWQPrOuIWuMMMJ/view?usp=drive_link)
@@ -41,7 +41,7 @@
   
    :link:[Gestionar Prestamo](https://drive.google.com/file/d/1TlaYEiPftQMl3xmWdEbNTV7mR9BO80CQ/view?usp=drive_link)
 
-### Escenarios de caso de uso:
+### 3. Escenarios de caso de uso:
 
    :link:[Buscar libro:](https://docs.google.com/spreadsheets/d/1nNJW64TALeI7IafefapFRiij8XQjeipf/edit?usp=drive_link&ouid=107823519741972166430&rtpof=true&sd=true)
 
@@ -73,7 +73,7 @@
 
       :link:[Matriz CLAE](https://docs.google.com/spreadsheets/d/1mwX7IsRQr5xseZd9fB24TEwyDTCuxP24/edit?usp=drive_link&ouid=107823519741972166430&rtpof=true&sd=true)
 
-   7. :link:[Digrama de Clases:](https://drive.google.com/file/d/1P0dPv6a6A9f_kJLpWRe7On8zExK-N0RY/view?usp=drive_link)
+   6. :link:[Digrama de Clases:](https://drive.google.com/file/d/1P0dPv6a6A9f_kJLpWRe7On8zExK-N0RY/view?usp=drive_link)
    
 
       
