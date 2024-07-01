@@ -15,7 +15,7 @@
 ***
 ## :small_orange_diamond:REQUISITOS INICIALES
 
-1)	Bueno tenemos como requisito inicial del sistema en mejorar la calidad de trabajo de los bibliotecarios tanto como la experiencia del usuario.
+1)	Tenemos como requisito inicial del sistema en mejorar la calidad de trabajo de los bibliotecarios, poder brindarles un sistema mas adptable que facilite los labores como tambien mejoraria la experiencia del usuario.
 2)	Evitar malas experiencias y poder brindar soluciones mucho mas rapidas.
 3)	Lograr un ambiente de trabajo mucho mas eficaz y agradable .
 
