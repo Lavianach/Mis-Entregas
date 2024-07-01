@@ -83,6 +83,14 @@
 
 :link:[Matriz CLAE](https://docs.google.com/spreadsheets/d/13DYqovR8XBa98I7tNi9c6n_8Vu-RePy7/edit?usp=sharing&ouid=107823519741972166430&rtpof=true&sd=true)
 
+:link:[Diagrama de Clases](https://drive.google.com/file/d/1mlk7RUsk5BdHu3CEyddXftPkv_vfuWF9/view?usp=sharing)
+***
+
+## Parte Teorica.
+
+:link:[Teoria](https://docs.google.com/document/d/1e8AZtHIAGR4ZRmO8Rsm9i-loXM81S8k8/edit?usp=sharing&ouid=107823519741972166430&rtpof=true&sd=true)
+
+
   
 
 
