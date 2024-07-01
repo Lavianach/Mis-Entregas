@@ -1,4 +1,4 @@
-# Tu Biblioteca :heavy_exclamation_mark: - DISEÑO DEL SISTEMA #
+# Tu Biblioteca :books: - DISEÑO DEL SISTEMA #
 
 
 ## :small_orange_diamond:Biblioteca Municipal "Luz y Saber" 
