@@ -87,7 +87,7 @@
 :link:[Diagrama de Clases](https://drive.google.com/file/d/16V6FEHywA3oYAP07dxAyf7sJyU3MsT8P/view?usp=sharing)(formato draw.io por distorsion)
 ***
 ## Anexos
-:link:[Anexo-Fundamenos del D.O.O](https://github.com/Lavianach/Mis-Entregas/blob/main/anexo.md)
+:link:[Anexo-Fundamenos del D.O.O](https://github.com/Lavianach/Mis-Entregas/blob/main/anexo.md)(Los 4 Pilares)
 
 :link:[Anexo-Patrones](https://docs.google.com/document/d/1e8AZtHIAGR4ZRmO8Rsm9i-loXM81S8k8/edit?usp=sharing&ouid=107823519741972166430&rtpof=true&sd=true)
 
