@@ -48,9 +48,65 @@ public class Usuario extends Persona {
 
 ## Herencia 
 La herencia es uno de los pilares fundamentales del diseño orientado a objetos (OOP) y es un mecanismo que permite que una clase herede propiedades y comportamientos (métodos) de otra. En otras palabras, una clase hija puede heredar atributos y métodos de una clase padre, lo que promueve la reutilización del código y la creación de estructuras jerárquicas.Simplicando herencia permite que una clase derive (o herede) de otra. La clase hija o derivada tiene todos los atributos y métodos de la clase padre o base, y puede agregar, modificar o extender esos métodos según sea necesario.
-
+Ejemplo similar a abstraccion.
 
 ![Diagrama UML](https://github.com/Lavianach/Mis-Entregas/raw/main/DiagramaClasesdrawio.png)
+[Diagrama UML en Draw.io](https://drive.google.com/file/d/16V6FEHywA3oYAP07dxAyf7sJyU3MsT8P/view?usp=sharing)
+
+**Descripcion** En este ejemplo si podemos visualizar la herencia con la clase abastracta _Persona_ , donde sus 2 clases hijas Usuario y Bibliotecario heredan atributos y metodos de ella evitando asi repetir codigo. Siendo hijas las 2 se puede notar que comparten el padre pero de todas formas una actua diferente de la otra. 
+Me parecio mas claro este ejemplo de herencia que en el ejemplo anterior de abastraccion,  al pilar abastraccion lo veo mas como sacar lo importate y mostrar eso, lo que el usuario o el que este visualizando  le sea adatable sin tener extensiones de cosas que por ahi no necesita saber o hacerlas.
+### Ejemplo codigo
+
+ //Clase abstracta Persona
+ 
+public abstract class Persona {
+    private String nombreUsuario;
+    private String direccion;
+    private String correo;
+    private String contraseña;
+
+    // Constructor
+    public Persona(String nombreUsuario, String direccion, String correo, String contraseña) {
+        this.nombreUsuario = nombreUsuario;
+        this.direccion = direccion;
+        this.correo = correo;
+        this.contraseña = contraseña;
+   
+
+    public void obtenerInformacion() {
+        System.out.println("Nombre de usuario: " + nombreUsuario);
+        System.out.println("Dirección: " + direccion);
+        System.out.println("Correo: " + correo);
+    }
+    // Clase Usuario que hereda de Persona
+    
+     public class Usuario extends Persona {
+     public Usuario(String nombreUsuario, String direccion, String correo, String contraseña) {
+        super(nombreUsuario, direccion, correo, contraseña);
+    }
+
+    @Override
+    public void obtenerInformacion() {
+        System.out.println("Usuario: " + nombreUsuario);
+        System.out.println("Correo electrónico: " + correo);
+    }
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
 
 
 
