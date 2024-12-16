@@ -91,6 +91,10 @@ public abstract class Persona {
         System.out.println("Correo electrónico: " + correo);
     }
 }
+## Polimorfismo
+En programación orientada a objetos el polimorfismo permite que una misma acción o método tenga diferentes comportamientos dependiendo del objeto que la invoque. Por ejemplo podemos tener un metodo "mensaje" que se vea diferente dependiendo quien la invoque, puede ser un mensaje de gmail, una notificacion y otra a red social, seria un mismo metodo pero accionaria de forma diferente depende quien lo tome como dije antes.
+
+
 
 
 
