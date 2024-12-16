@@ -24,7 +24,7 @@
 
 4. Diagrama de Actividades:
 
-      :link:[Buscar libro:](https://drive.google.com/file/d/1Y7UTv1fUF22jOzpEatqrmhek0wpq07lf/view?usp=drive_link)
+      :link:[Buscar libro:](https://github.com/Lavianach/Mis-Entregas/raw/main/Diagrama%20Buscar%20libro.drawio.pdf)
       
       :link:[Inicio Sesion:](https://drive.google.com/file/d/1oyLenYA3OzGsHqdhCcTl4pLmw94rI1bl/view?usp=drive_link)
 
