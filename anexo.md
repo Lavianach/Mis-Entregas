@@ -93,6 +93,88 @@ public abstract class Persona {
 }
 ## Polimorfismo
 En programación orientada a objetos el polimorfismo permite que una misma acción o método tenga diferentes comportamientos dependiendo del objeto que la invoque. Por ejemplo podemos tener un metodo "mensaje" que se vea diferente dependiendo quien la invoque, puede ser un mensaje de gmail, una notificacion y otra a red social, seria un mismo metodo pero accionaria de forma diferente depende quien lo tome como dije antes.
+![Diagrama UML](https://github.com/Lavianach/Mis-Entregas/raw/main/DiagramaClasesdrawio.png)
+[Diagrama UML en Draw.io](https://drive.google.com/file/d/16V6FEHywA3oYAP07dxAyf7sJyU3MsT8P/view?usp=sharing)
+Vamos a implementar el método iniciarSesion como un ejemplo de polimorfismo tanto Usuario como el Bibliotecario heredan de la clase abstracta Persona y cada uno tendrá su propia lógica para el inicio de sesión.
+En la clase abstracta Persona, definimos el método abstracto iniciarSesion, que será sobrescrito en las subclases (Usuario y Bibliotecario).
+Desde el sistema principal, usamos el polimorfismo para manejar ambas clases (Usuario y Bibliotecario) de forma genérica
+
+EJMPLO CON CODIGO JAVA.
+
+// Clase abstracta Persona
+abstract class Persona {
+    protected String nombreUsuario;
+    protected String contraseña;
+
+    // Constructor
+    public Persona(String nombreUsuario, String contraseña) {
+        this.nombreUsuario = nombreUsuario;
+        this.contraseña = contraseña;
+    }
+
+    // Método abstracto para iniciar sesión
+    public abstract void iniciarSesion();
+}
+
+// Clase Usuario
+class Usuario extends Persona {
+
+    public Usuario(String nombreUsuario, String contraseña) {
+        super(nombreUsuario, contraseña);
+    }
+
+    @Override
+    public void iniciarSesion() {
+        System.out.println("Inicio de sesión exitoso para el Usuario: " + nombreUsuario);
+        // Lógica adicional específica para un Usuario
+        System.out.println("Accediendo al sistema ");
+    }
+}
+
+// Clase Bibliotecario
+class Bibliotecario extends Persona {
+
+    public Bibliotecario(String nombreUsuario, String contraseña) {
+        super(nombreUsuario, contraseña);
+    }
+
+    @Override
+    public void iniciarSesion() {
+        System.out.println("Inicio de sesión exitoso para el Bibliotecario: " + nombreUsuario);
+        // Lógica adicional específica para un Bibliotecario
+        System.out.println("Accediendo al sistema de gestión de libros...");
+    }
+}
+// Clase principal para probar
+public class SistemaBiblioteca {
+    public static void main(String[] args) {
+       
+        // Creamos un Usuario
+        Persona usuario = new Usuario("Pedito", "123456");
+
+        // Creamos un Bibliotecario
+        Persona bibliotecario = new Bibliotecario("OscarGomez", "oscarsito123");
+
+        // Polimorfismo en acción: ambos inician sesión de manera diferente
+        usuario.iniciarSesion(); 
+        // Salida:
+        // Inicio de sesión exitoso para el Usuario: usuario123
+        // Accediendo al sistema de préstamos...
+
+        bibliotecario.iniciarSesion();
+        // Salida:
+        // Inicio de sesión exitoso para el Bibliotecario: admin123
+        // Accediendo al sistema de gestión de libros...
+    }
+}
+
+
+
+
+
+
+
+
 
 
 
