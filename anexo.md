@@ -167,6 +167,101 @@ public class SistemaBiblioteca {
         // Accediendo al sistema de gestión de libros...
     }
 }
+## Encapsulamiento:
+
+El encapsulamiento es uno de los principios fundamentales de la programación orientada a objetos (OOP), y se refiere al concepto de ocultar los detalles internos de una clase y exponer solo lo necesario a través de interfaces públicas. Esto se logra utilizando modificadores de acceso (como private, protected y public) para controlar cómo los datos de una clase pueden ser accedidos y modificados desde otras clases.
+
+El encapsulamiento implica la agrupación de datos (atributos) y métodos (funciones) en una sola unidad, que es la clase. Este principio ayuda a controlar el acceso a los datos y asegura que el estado de los objetos esté siempre consistente.
+Importancia del Encapsulamiento:
+Protección de datos: Al hacer que los atributos sean privados, evitamos que otros objetos o clases modifiquen el estado de un objeto directamente. Solo los métodos de la clase pueden manipular sus datos internos, lo que garantiza que el objeto se mantenga en un estado válido y consistente.
+Facilita la mantenimiento y la escalabilidad: Si los detalles internos de una clase cambian, los métodos de la clase pueden adaptarse sin que las clases que usen esta clase tengan que ser modificadas. Esto permite realizar cambios en el diseño sin afectar a otros componentes del sistema.
+Control de acceso: A través de los métodos getter y setter, podemos validar o realizar tareas adicionales antes de permitir la modificación o acceso a los atributos. Por ejemplo, podemos asegurarnos de que solo se asignen valores válidos a los atributos.
+Mejora la legibilidad y reutilización del código: Al ocultar los detalles internos y proporcionar una interfaz clara y controlada, el código es más fácil de leer y comprender, lo que facilita su reutilización en otros contextos o aplicaciones.
+![Diagrama UML](https://github.com/Lavianach/Mis-Entregas/raw/main/DiagramaClasesdrawio.png)
+[Diagrama UML en Draw.io](https://drive.google.com/file/d/16V6FEHywA3oYAP07dxAyf7sJyU3MsT8P/view?usp=sharing)
+Justamente lo que hice en el sistema como fue poner los atributos en private que es uno de los principios del encapsulamiento.En el sistema se aplico el principio de encapsulamiento al declarar los atributos como private, lo que garantiza que los datos internos de las clases no sean accesibles directamente desde fuera. De esta manera, solo se puede acceder a la información a través de los métodos getters y setters, proporcionando control sobre cómo se leen y modifican los valores. Este enfoque asegura que los usuarios solo puedan interactuar con los datos que necesitan, mejorando la seguridad y la integridad del sistema."
+
+EJEMPLO CON CODIGO JAVA.
+public abstract class Persona {
+    // Atributos privados
+    private String nombreUsuario;
+    private String direccion;
+    private String correo;
+    private String contraseña;
+
+    // Constructor
+    public Persona(String nombreUsuario, String direccion, String correo, String contraseña) {
+        this.nombreUsuario = nombreUsuario;
+        this.direccion = direccion;
+        this.correo = correo;
+        this.contraseña = contraseña;
+    }
+
+    // Métodos getter y setter
+    public String getNombreUsuario() {
+        return nombreUsuario;
+    }
+
+    public void setNombreUsuario(String nombreUsuario) {
+        this.nombreUsuario = nombreUsuario;
+    }
+
+    public String getDireccion() {
+        return direccion;
+    }
+
+    public void setDireccion(String direccion) {
+        this.direccion = direccion;
+    }
+
+    public String getCorreo() {
+        return correo;
+    }
+
+    public void setCorreo(String correo) {
+        this.correo = correo;
+    }
+
+    public String getContraseña() {
+        return contraseña;
+    }
+
+    public void setContraseña(String contraseña) {
+        this.contraseña = contraseña;
+    }
+
+    // Método abstracto que debe ser implementado en las clases hijas
+    public abstract void iniciarSesion();
+}
+public class Usuario extends Persona {
+
+    // Constructor
+    public Usuario(String nombreUsuario, String direccion, String correo, String contraseña) {
+        super(nombreUsuario, direccion, correo, contraseña);
+    }
+
+    // Implementación del método abstracto
+    @Override
+    public void iniciarSesion() {
+        // Aquí podrías poner la lógica para validar que el nombre de usuario y contraseña son correctos
+        System.out.println("Inicio de sesión para el usuario: " + getNombreUsuario());
+    }
+
+    // Método adicional
+    public void obtenerInformacion() {
+        System.out.println("Nombre de usuario: " + getNombreUsuario());
+        System.out.println("Dirección: " + getDireccion());
+        System.out.println("Correo: " + getCorreo());
+    }
+}
+
+
+
+
+
+
+
+
 
 
 
