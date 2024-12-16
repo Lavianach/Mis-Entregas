@@ -15,6 +15,10 @@ Cuando estamos diseñando un sistema, abstraemos lo más importante: es decir, i
 
 ![Diagrama UML](https://github.com/Lavianach/Mis-Entregas/raw/main/DiagramaClasesdrawio.png)
 
+[Diagrama UML en Draw.io](https://drive.google.com/file/d/ID_DEL_ARCHIVO/view?usp=sharing)
+
+
+
 
 
 
