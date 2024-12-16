@@ -53,7 +53,7 @@
 
 ## Actividad Nro 4.
 
-:link:[Tarjetas CRC:](https://drive.google.com/file/d/1IJoEIDM9eljXWxspZafo-gLZGjmy2QXL/view?usp=sharing)
+:link:[Tarjetas CRC:](https://drive.google.com/file/d/1IJoEIDM9eljXWxspZafo-gLZGjmy2QXL/view?usp=sharing)(Tambien queda en formato por distorsion)
 
 ### 2. Diagramas de caso de uso
    
