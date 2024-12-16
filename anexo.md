@@ -47,6 +47,16 @@ public class Usuario extends Persona {
     }
 
 ## Herencia 
+La herencia es uno de los pilares fundamentales del diseño orientado a objetos (OOP) y es un mecanismo que permite que una clase herede propiedades y comportamientos (métodos) de otra. En otras palabras, una clase hija puede heredar atributos y métodos de una clase padre, lo que promueve la reutilización del código y la creación de estructuras jerárquicas.Simplicando herencia permite que una clase derive (o herede) de otra. La clase hija o derivada tiene todos los atributos y métodos de la clase padre o base, y puede agregar, modificar o extender esos métodos según sea necesario.
+
+
+![Diagrama UML](https://github.com/Lavianach/Mis-Entregas/raw/main/DiagramaClasesdrawio.png)
+
+
+
+
+
+
 
     
 
