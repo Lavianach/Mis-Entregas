@@ -20,6 +20,9 @@
 3)	Lograr un ambiente de trabajo mucho mas eficaz y agradable .
 
 # :arrow_down_small: Diagramas y diseño
+
+:link:[Actividad Nro 1](https://github.com/Lavianach/Mis-Entregas/raw/main/ACTIVIDAD%20OBLIGATORIA%20N%C2%AA1%20elias%20exequiel%20lavia%20(1).pdf)
+
 :link:[Actividad Nro 3](https://docs.google.com/document/d/1Qp6hNQUvrO1Xh43iwDOPItIw5hxiTVbc/edit?usp=drive_link&ouid=107823519741972166430&rtpof=true&sd=true)
 
 4. Diagrama de Actividades:
