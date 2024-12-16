@@ -61,7 +61,7 @@
 
 :link:[Realizar Prestamo](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20CU%20Realizar%20Prestamo.drawio.pdf)
  
-  :link:[Registrar Multa](https://drive.google.com/file/d/1U1bZcDRcG16eNgm1q_3auezleRcy_4b2/view?usp=drive_link)
+  :link:[Registrar Multa](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20CU%20Registrar%20multa.drawio.pdf)
   
   :link: [Realizar Devolucion](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20CU%20Realizar%20Devolucion.drawio.pdf)
   
