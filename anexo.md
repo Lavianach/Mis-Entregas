@@ -93,8 +93,11 @@ public abstract class Persona {
 }
 ## Polimorfismo
 En programación orientada a objetos el polimorfismo permite que una misma acción o método tenga diferentes comportamientos dependiendo del objeto que la invoque. Por ejemplo podemos tener un metodo "mensaje" que se vea diferente dependiendo quien la invoque, puede ser un mensaje de gmail, una notificacion y otra a red social, seria un mismo metodo pero accionaria de forma diferente depende quien lo tome como dije antes.
+
 ![Diagrama UML](https://github.com/Lavianach/Mis-Entregas/raw/main/DiagramaClasesdrawio.png)
+
 [Diagrama UML en Draw.io](https://drive.google.com/file/d/16V6FEHywA3oYAP07dxAyf7sJyU3MsT8P/view?usp=sharing)
+
 Vamos a implementar el método iniciarSesion como un ejemplo de polimorfismo tanto Usuario como el Bibliotecario heredan de la clase abstracta Persona y cada uno tendrá su propia lógica para el inicio de sesión.
 En la clase abstracta Persona, definimos el método abstracto iniciarSesion, que será sobrescrito en las subclases (Usuario y Bibliotecario).
 Desde el sistema principal, usamos el polimorfismo para manejar ambas clases (Usuario y Bibliotecario) de forma genérica
