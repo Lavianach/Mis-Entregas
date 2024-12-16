@@ -29,7 +29,7 @@
       
       :link:[Inicio Sesion:](https://github.com/Lavianach/Mis-Entregas/raw/main/Diagrama%20inicio%20sesion.drawio.pdf)
 
-      :link:[Prestamo:](https://drive.google.com/file/d/1JcwfSAi2LRwyRd4fYu-Pokqee2UxRSFY/view?usp=drive_lin)
+      :link:[Prestamo:](https://drive.google.com/file/d/1JcwfSAi2LRwyRd4fYu-Pokqee2UxRSFY/view?usp=drive_lin)(Queda en formato .draw porque se distorciona en pdf)
 
       :link:[Registro libro:](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20REGISTRO%20LIBRO.drawio.pdf)
 
