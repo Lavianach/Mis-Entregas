@@ -13,5 +13,8 @@ Cuando estamos diseñando un sistema, abstraemos lo más importante: es decir, i
 
 ### Ejemplo con diagrama de clases.
 
+![Diagrama UML](https://github.com/Lavianach/Mis-Entregas/raw/main/DiagramaClasesdrawio.png)
+
+
 
 
