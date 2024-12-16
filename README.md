@@ -37,15 +37,15 @@
 
  5. Diagramas de Secuencias:
 
-    :link:[Solicitar Prestamo:](https://drive.google.com/file/d/1_i0ykkEcY_KTJ-xVO_FLYibgMEAZxQfC/view?usp=drive_link)
+    :link:[Solicitar Prestamo:](https://github.com/Lavianach/Mis-Entregas/raw/main/SolicitarPrestamoSecuencia.drawio.pdf)
 
-      :link:[Registrarse:](https://drive.google.com/file/d/1pk8W17O4hH0SSrBy3BYwDllnd86iBHDx/view?usp=drive_link)
+      :link:[Registrarse:](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20secuencias%20registrarse%20.drawio.pdf)
 
-      :link:[buscar libro:](https://drive.google.com/file/d/1guMb9DLldot1Fwc9tJtYx1jvN3wEXLE1/view?usp=drive_link)
+      :link:[buscar libro:](https://github.com/Lavianach/Mis-Entregas/raw/main/diagramaSecuenciabuscar%20libro.drawio.pdf)
     
-      :link: [Registrar libro](https://drive.google.com/file/d/1iAUcOSKppGaDCpQ-uwtalXfV_cMheUj7/view?usp=sharing)
+      :link: [Registrar libro](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20secuencias%20registro%20libro.drawio.pdf)
 
-       :link:[Iniciar Sesion](https://drive.google.com/file/d/1hRZybBOnW0lNgdwUfm2aqrt3g5j7fM7c/view?usp=sharing)
+       :link:[Iniciar Sesion](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20secuencias%20Iniciar%20Sesion.drawio.pdf)
    
 ***
 
