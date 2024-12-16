@@ -11,3 +11,7 @@ Cuando estamos diseñando un sistema, abstraemos lo más importante: es decir, i
 
 **En resumen la abstracción es como identificar lo más importante de un problema o sistema, y concentrarse en esos aspectos clave para desarrollar una solución que sea más manejable y comprensible.**
 
+### Ejemplo con diagrama de clases.
+
+
+
