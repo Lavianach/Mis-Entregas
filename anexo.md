@@ -46,6 +46,8 @@ public class Usuario extends Persona {
         System.out.println("Realizando pago ");
     }
 
+## Herencia 
+
     
 
 
