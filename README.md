@@ -91,6 +91,8 @@
 
 :link:[Anexo-Fundamenos del D.O.O](https://github.com/Lavianach/Mis-Entregas/blob/main/anexo.md)
 
+:link:[Anexo-Principios Solid](https://docs.google.com/document/d/1nO1N9kLmHE8KNTpOzHByDDRuVzj-GS9tBrG1susGCV4/edit?usp=sharing)
+
 
 
   
