@@ -17,6 +17,10 @@ Cuando estamos diseñando un sistema, abstraemos lo más importante: es decir, i
 
 [Diagrama UML en Draw.io](https://drive.google.com/file/d/16V6FEHywA3oYAP07dxAyf7sJyU3MsT8P/view?usp=sharing)
 
+Como dijimos antes abstraccion hace referencia a obtener solamente lo que realmente necesitamos dejando de lado lo menos importante. Se puede ver en los atributos que menciono en cada clase mostrando asi al usuario solamente lo que el necesita para poder realizar su obejetivo, evitando asi molestias y tambien poder hacer el sistema mas flexible y adaptable.
+
+
+
 
 
 
