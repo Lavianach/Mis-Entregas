@@ -83,7 +83,7 @@
 
 :link:[Matriz CLAE](https://docs.google.com/spreadsheets/d/13DYqovR8XBa98I7tNi9c6n_8Vu-RePy7/edit?usp=sharing&ouid=107823519741972166430&rtpof=true&sd=true)
 
-:link:[Diagrama de Clases](https://drive.google.com/file/d/16V6FEHywA3oYAP07dxAyf7sJyU3MsT8P/view?usp=sharing)
+:link:[Diagrama de Clases](https://github.com/Lavianach/Mis-Entregas/raw/main/DiagramaClases.drawio.pdf)
 ***
 
 ## Parte Teorica.
