@@ -26,13 +26,13 @@
 
       :link:[Buscar libro:](https://github.com/Lavianach/Mis-Entregas/raw/main/Diagrama%20Buscar%20libro.drawio.pdf)
       
-      :link:[Inicio Sesion:](https://drive.google.com/file/d/1oyLenYA3OzGsHqdhCcTl4pLmw94rI1bl/view?usp=drive_link)
+      :link:[Inicio Sesion:](https://github.com/Lavianach/Mis-Entregas/raw/main/Diagrama%20inicio%20sesion.drawio.pdf)
 
-      :link:[Prestamo:](https://drive.google.com/file/d/1JcwfSAi2LRwyRd4fYu-Pokqee2UxRSFY/view?usp=drive_link)
+      :link:[Prestamo:](https://drive.google.com/file/d/1JcwfSAi2LRwyRd4fYu-Pokqee2UxRSFY/view?usp=drive_lin)
 
-      :link:[Registro libro:](https://drive.google.com/file/d/14-b3tx4K5TtzDMLiMCk5iFgnkbRqbImS/view?usp=drive_link)
+      :link:[Registro libro:](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20REGISTRO%20LIBRO.drawio.pdf)
 
-      :link:[Registro usuario/bibliotecario:](https://drive.google.com/file/d/1yWG8sQvtVZRL6mnzpneSx6hhfUzMNQuG/view?usp=drive_link)
+      :link:[Registro usuario/bibliotecario:](https://github.com/Lavianach/Mis-Entregas/raw/main/Diagrama%20Registros.drawio.pdf)
 
 
  5. Diagramas de Secuencias:
