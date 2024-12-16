@@ -89,9 +89,7 @@
 :link:[Diagrama de Clases](https://drive.google.com/file/d/16V6FEHywA3oYAP07dxAyf7sJyU3MsT8P/view?usp=sharing)
 ***
 
-## Parte Teorica.
-
-:link:[Teoria](https://docs.google.com/document/d/1e8AZtHIAGR4ZRmO8Rsm9i-loXM81S8k8/edit?usp=sharing&ouid=107823519741972166430&rtpof=true&sd=true)
+:link:[Patrones](https://docs.google.com/document/d/1e8AZtHIAGR4ZRmO8Rsm9i-loXM81S8k8/edit?usp=sharing&ouid=107823519741972166430&rtpof=true&sd=true)
 
 
   
