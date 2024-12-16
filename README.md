@@ -56,19 +56,19 @@
 
 ### 2. Diagramas de caso de uso
    
-:link:[Buscar Libro](https://drive.google.com/file/d/1qmoEpMjHDosjQLPPsoZu1B-FS5KCFhZg/view?usp=drive_link)
+:link:[Buscar Libro](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20CU%20Buscar%20libro.drawio.pdf)
 
-:link:[Realizar Prestamo](https://drive.google.com/file/d/1TjBqem7N34lnJ5OcCKzWQPrOuIWuMMMJ/view?usp=drive_link)
+:link:[Realizar Prestamo](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20CU%20Realizar%20Prestamo.drawio.pdf)
  
   :link:[Registrar Multa](https://drive.google.com/file/d/1U1bZcDRcG16eNgm1q_3auezleRcy_4b2/view?usp=drive_link)
   
-  :link: [Realizar Devolucion](https://drive.google.com/file/d/1iu3GNAOv3yYQMw7A9b1GCMs9J60kzFyL/view?usp=drive_link)
+  :link: [Realizar Devolucion](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20CU%20Realizar%20Devolucion.drawio.pdf)
   
-  :link: [Inicio Sesion](https://drive.google.com/file/d/1-_-FZdKorsQArgvGuddEIP8lCnDErcLp/view?usp=drive_link)
+  :link: [Inicio Sesion](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20CU%20Inicio%20Sesion.drawio.pdf)
   
- :link:  [Gestionar Sistema](https://drive.google.com/file/d/15zoInXSC16iR-gbm8kma1cinulSHLUDA/view?usp=sharing)
+ :link:  [Gestionar Sistema](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20CU%20Gestionarsistema.drawio.pdf)
   
-  :link: [Gestionar Estanterias](https://drive.google.com/file/d/1mo4cWB6TnXdNmtvZ-UaELt_Jy7ve7vRm/view?usp=drive_link)
+  :link: [Gestionar Estanterias](https://github.com/Lavianach/Mis-Entregas/raw/main/diagrama%20CU%20Gestionar%20Estanteria.drawio.pdf)
   
    
 ### 3. Escenarios de caso de uso:
