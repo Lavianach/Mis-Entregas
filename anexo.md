@@ -19,6 +19,35 @@ Cuando estamos diseñando un sistema, abstraemos lo más importante: es decir, i
 
 Como dijimos antes abstraccion hace referencia a obtener solamente lo que realmente necesitamos dejando de lado lo menos importante. Se puede ver en los atributos que menciono en cada clase mostrando asi al usuario solamente lo que el necesita para poder realizar su obejetivo, evitando asi molestias y tambien poder hacer el sistema mas flexible y adaptable.
 
+### Ejemplo codigo
+Clase Bibliotecario que hereda de Persona
+public class Usuario extends Persona {
+
+    Implementación de métodos heredados de Persona
+
+    public void iniciarSesion() {
+        System.out.println("Iniciando sesión");
+    }
+    public void generarCodigoID(int id) {
+        System.out.println("Generando código de ID " + id);
+    }
+    public void generarPrestamo() {
+        System.out.println("Generando préstamo ");
+    }
+    public void obtenerInformacion() {
+        System.out.println("Obteniendo información ");
+    }
+
+    
+    public void realizarDevolucion() {
+        System.out.println("Realizando devolución del libro");
+    }
+    public void realizarPago() {
+        System.out.println("Realizando pago ");
+    }
+
+    
+
 
 
 
